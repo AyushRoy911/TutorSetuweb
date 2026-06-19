@@ -1,0 +1,17 @@
+{
+  "name": "TutorSetu",
+  "short_name": "TutorSetu",
+  "description": "Find trusted tutors, online classes, home tuition, and coaching institutes across India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/tutorsetu-logo.png",
+      "sizes": "85x85",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
