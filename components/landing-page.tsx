@@ -46,8 +46,7 @@ const navItems = [
 ];
 
 const apkDownloadUrl =
-  "https://github.com/AyushRoy911/TutorSetu/releases/download/v1.0/app-debug.apk";
-
+  "https://github.com/AyushRoy911/TutorSetu/releases/download/v1.0/TutorSetu.apk";
 const apkDownloadProps = {
   href: apkDownloadUrl,
   download: "TutorSetu.apk",
